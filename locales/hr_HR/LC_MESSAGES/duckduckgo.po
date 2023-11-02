@@ -1609,7 +1609,7 @@ msgstr "Razgovor"
 #. Message shown when we have no data from upstream to display
 msgctxt "Single Place Hotel Offers Module"
 msgid "Check %s for rates and availability."
-msgstr "Check %1$s for rates and availability."
+msgstr "Provjeri %1$s za cijene i dostupnost."
 
 # smartling.placeholder_format=C
 #. Tells users where in the settings menu they can change their default search engine.
@@ -2384,7 +2384,7 @@ msgstr "N"
 # smartling.placeholder_format=C
 msgctxt "settings"
 msgid "DC: preferred"
-msgstr "DC: preferred"
+msgstr "DC: preferirano"
 
 # smartling.placeholder_format=C
 #. The name of the Danish language
@@ -3307,7 +3307,7 @@ msgstr "Francuska"
 #. Indicates that this streaming service is free (no cost) to watch
 msgctxt "Where to watch instant answer"
 msgid "Free"
-msgstr "Free"
+msgstr "Besplatno"
 
 # smartling.placeholder_format=C
 #. a filter for images with the CC BY-NC usage license
@@ -3337,7 +3337,7 @@ msgstr "Besplatno za dijeljenje i komercijalnu upotrebu"
 #. Indicates that this streaming service is free to watch but shows ads
 msgctxt "Where to watch instant answer"
 msgid "Free with ads"
-msgstr "Free with ads"
+msgstr "Besplatno s oglasima"
 
 # smartling.placeholder_format=C
 #. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
@@ -3391,7 +3391,7 @@ msgstr "Hladno"
 #. Indicates that prices for this movie on this streaming service start from this value, e.g. From $4.99
 msgctxt "Where to watch instant answer"
 msgid "From %s"
-msgstr "From %1$s"
+msgstr "S %1$s"
 
 # smartling.placeholder_format=C
 #. This is an option for a user setting. It refers to showing the full URL for a website, including the url path, but made to look like the breadcrumbs of a website (e.g. website.com > this > is > the > path) -- Example image: https://i.imgur.com/roiQBYz.png
@@ -6835,7 +6835,7 @@ msgstr ""
 #. Indicates that this show (movie, series, etc.) is available to either rent or buy from the given streaming service.
 msgctxt "Where to watch instant answer"
 msgid "Rent or buy"
-msgstr "Rent or buy"
+msgstr "Iznajmi ili kupi"
 
 # smartling.placeholder_format=C
 #. A button that appears next to an advertisement, allowing a user to send a report for an advertisment they think is spam.
@@ -7690,7 +7690,7 @@ msgstr "Prikaži manje"
 #. Button that allows user to collapse list of rates and just show up to 4 rates and hide the rest
 msgctxt "Single Place Hotel Offers Module"
 msgid "Show Less Rates"
-msgstr "Show Less Rates"
+msgstr "Pokaži manje cijena"
 
 # smartling.placeholder_format=C
 #. Button that displays a list of search results
@@ -7713,7 +7713,7 @@ msgstr "Prikaži više"
 #. Button that allows user to expand list of offers and show more than the displayed ones by default
 msgctxt "Single Place Hotel Offers Module"
 msgid "Show More Rates"
-msgstr "Show More Rates"
+msgstr "Pokaži više cijena"
 
 # smartling.placeholder_format=C
 msgctxt "new tab page"
@@ -8131,7 +8131,7 @@ msgstr "Pretplati se"
 #. Indicates that this streaming service requires a subscription
 msgctxt "Where to watch instant answer"
 msgid "Subscription"
-msgstr "Subscription"
+msgstr "Pretplata"
 
 # smartling.placeholder_format=C
 #. Button that suggests a random passphrase for the user.
@@ -9683,7 +9683,7 @@ msgstr "Tamo gdje piše Početna stranica, klikni %1$sPostavi na trenutnu strani
 #. Heading of a module showing what streaming services are showing a movie or series, e.g. Where to Watch The Matrix
 msgctxt "Where to watch instant answer"
 msgid "Where to Watch <strong>%s</strong>"
-msgstr "Where to Watch <strong>%1$s</strong>"
+msgstr "Gdje gledati <strong>%1$s</strong>"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Header: " and under "Background: "
@@ -10092,7 +10092,7 @@ msgstr "za"
 # smartling.placeholder_format=C
 #. Label that specifies which price the product/service starts from, ex: from $237
 msgid "from"
-msgstr "from"
+msgstr "od"
 
 # smartling.placeholder_format=C
 #. An abbreviated form of "hour" that can be displayed in a small space e.g. "1h"
@@ -10150,7 +10150,7 @@ msgstr "nije %1$s enkodiranje"
 #. Will be used in the sentence, 'Check official website for rates and availability.' but needs to be a separate token so we can make it a link
 msgctxt "Single Place Hotel Offers Module"
 msgid "official website"
-msgstr "official website"
+msgstr "službenu web lokaciju"
 
 # smartling.placeholder_format=C
 #. Used for the <em>color settings</em> into the <a href="https://duckduckgo.com/params.html">URL params page</a> as the last available value for the color parameter.
