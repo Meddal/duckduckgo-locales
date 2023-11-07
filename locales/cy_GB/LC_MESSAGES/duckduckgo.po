@@ -112,16 +112,16 @@ msgstr "%s mi"
 #. Label next to a user review. The placeholders are the user name and the review website. For example: 'John on TripAdvisor'
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr "%s arno %s"
+msgstr "%s ar %s"
 
 #. Empty state message to indicate that there are no rankings for a particular ranking yet. For example, for college football, the CFP ranking is typically not released until halfway through the season.
 msgctxt "Sports module"
 msgid "%s rankings are not yet available"
-msgstr ""
+msgstr "Nid oes %s gradd ar gael eto"
 
 #. The main headline indicating that more than 1 attempt has been blocked. Eg: '2 tracking attempts blocked'
 msgid "%s tracking attempts blocked"
-msgstr ""
+msgstr "%s ymgais i dracio wedi'u rhwystro"
 
 #. Instructions on which buttons and options the user has to click in order to add the DuckDuckGo extension to their browser.
 msgctxt "install-duckduckgo"
